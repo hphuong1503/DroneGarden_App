@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "322173098368",
+    "firebase_url": "https://flycam-184516.firebaseio.com",
+    "project_id": "flycam-184516",
+    "storage_bucket": "flycam-184516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322173098368:android:25729b4678ebaaae",
+        "android_client_info": {
+          "package_name": "com.example.duongph.dronegarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt_n881G-xsP34Dn9NFx4U8WTDmvsBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322173098368:android:dc02f452be42eac7",
+        "android_client_info": {
+          "package_name": "com.example.duongph.aiboys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322173098368-la3291qe8dl4shspatnssrdgis31m9ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duongph.aiboys",
+            "certificate_hash": "c54aa1ddefdf09add1c6c1135443b7ac4c0e6412"
+          }
+        },
+        {
+          "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt_n881G-xsP34Dn9NFx4U8WTDmvsBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322173098368:android:8cc9b0a62b45b115",
+        "android_client_info": {
+          "package_name": "demo.flycam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322173098368-rn09gtk1t5271lhg7sh8pbj6vd026b3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.flycam",
+            "certificate_hash": "ca808b36c4ff262769bb0a72f8d0a7fa0431488d"
+          }
+        },
+        {
+          "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt_n881G-xsP34Dn9NFx4U8WTDmvsBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322173098368:android:0318d36624b4e774",
+        "android_client_info": {
+          "package_name": "demo.demoflycam1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322173098368-ru48la0nc4m4vf9ed56eghgbu5qb8757.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.demoflycam1",
+            "certificate_hash": "ca808b36c4ff262769bb0a72f8d0a7fa0431488d"
+          }
+        },
+        {
+          "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt_n881G-xsP34Dn9NFx4U8WTDmvsBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322173098368:android:99836cdf99618db5",
+        "android_client_info": {
+          "package_name": "com.hoangphuong.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322173098368-k4qbprvude8jl7e7kvbb7m8sjreochq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoangphuong.hackathon",
+            "certificate_hash": "c916b5e3890b8e9d7f15a388fd2381140eaa731c"
+          }
+        },
+        {
+          "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt_n881G-xsP34Dn9NFx4U8WTDmvsBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322173098368-cnn4r2bo9oq7dgrb5874dv6muhk370ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
